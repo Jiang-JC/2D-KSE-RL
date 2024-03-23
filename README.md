@@ -11,7 +11,7 @@ Repository for "Numerical solutions of fixed points in two-dimensional Kuramoto-
 
 ## Fixed points of 2D KSE
 
-​```
+'''
 <img src="Result_Presentation\Parameters.png" width="800">
 
 Repository structure
@@ -29,7 +29,7 @@ logs                    //all test logs
 models                 //trained model,  used to test model performance
 
 pretrain                // training model folder will be saved here
-​```
+'''
 
 
 

@@ -6,14 +6,6 @@ Repository for "Numerical solutions of fixed points in two-dimensional Kuramoto-
 
 
 
-
-
-
-## Fixed points of 2D KSE
-
-
-<img src="Result_Presentation\Parameters.png" width="800">
-
 ## Repository Sturcture
 
 ```
@@ -22,3 +14,11 @@ Identification_2DKSE        //For case of
 Fixed_Points_Data
 ```
 
+## Train
+
+
+
+## Fixed points of 2D KSE
+
+
+<img src="Result_Presentation\Parameters.png" width="800">

@@ -30,7 +30,7 @@ pretrain                // training model folder will be saved here
 
 ```
 Navigation_2DKSE            //For code of 
-  console.log("notice the blank line before this function?");
-}
+Identification_2DKSE        //For case of 
+Fixed_Points_Data
 ```
 

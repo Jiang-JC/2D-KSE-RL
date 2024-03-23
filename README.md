@@ -12,7 +12,7 @@ Repository for "Numerical solutions of fixed points in two-dimensional Kuramoto-
 Navigation_2DKSE                     // For code of 
 Identification_2DKSE                 // For case of 
 FixedPoints
-    - FixedPointsData                // Data of fixed points in two-dimensional Kuramoto-Sivashinsky 
+    - FixedPointsData                // Data of fixed points in two-dimensional Kuramoto-Sivashinsky
     - FixedPointsImage               // Images of fixed points in two-dimensional Kuramoto-Sivashinsky
 ```
 

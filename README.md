@@ -23,4 +23,4 @@ FixedPoints
 ## Fixed points of 2D KSE
 
 
-<img src="ImageForPresent\FixedPoints" width="800">
+<img src="ImageForPresent\FixedPoints.png" width="800">

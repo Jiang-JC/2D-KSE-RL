@@ -26,17 +26,20 @@ conda activate KSE_RL
 ## Repository Sturcture
 
 ```
-Navigation_2DKSE                   // For task of navigating towards a fixed goal point
-Navigation_2DKSE_Result            // Test effect of navigating towards a fixed goal point
-Identification_2DKSE               // For task of dentifying fixed points
+Navigation_2DKSE                   // For the task of navigating towards a fixed goal point
+Navigation_2DKSE_Result            // Test the effect of navigating towards a fixed goal point
+Identification_2DKSE               // For the task of dentifying fixed points
 FixedPoints
     - FixedPointsData              // Data of fixed points in two-dimensional Kuramoto-Sivashinsky
     - FixedPointsImage             // Images of fixed points in two-dimensional Kuramoto-Sivashinsky
 ```
 
 ## Train
+Select the "Navigation_2DKSE" folder for task of navigating towards a fixed goal point, or select the "Identification_2DKSE" folder and then
 
-
+```
+python Main.py
+```
 
 ## Fixed points of 2D KSE
 

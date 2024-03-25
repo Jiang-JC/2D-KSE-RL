@@ -3,9 +3,8 @@
 Repository for "Numerical solutions of fixed points in two-dimensional Kuramoto-Sivashinsky equation expedited by reinforcement learning".
 
 ## Requirements
-+123123
-
--123123
++12313
++1231231
 
 
 

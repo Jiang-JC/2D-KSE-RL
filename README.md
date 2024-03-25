@@ -37,7 +37,6 @@ Fixed points list for 2D KSE. For conciseness, we tabulate only the absolute val
 
 <img src="ImageForPresent\FixedPointsZeroList.png" width="800">
 
-Representation of the fixed points E1-E17 in 2D KSE which all have the same ̂$\widehat{e}\_{(0,1)} = \widehat{e}\_{(1,1) = \widehat{e}\_{(1,0)} = 0$
-
+Representation of the fixed points E1-E17 in 2D KSE which all have the same $\widehat{e}\_{(0,1)} = \widehat{e}\_{(1,1) = \widehat{e}\_{(1,0)} = 0$
 
 

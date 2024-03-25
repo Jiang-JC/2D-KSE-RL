@@ -4,6 +4,7 @@ Repository for "Numerical solutions of fixed points in two-dimensional Kuramoto-
 
 ## Requirements
 -python 3.8.13
+
 -pytorch 1.10.2
 -numpy
 

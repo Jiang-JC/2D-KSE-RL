@@ -29,13 +29,13 @@ FixedPoints
 
 
 
-<img src="ImageForPresent\FixedPointsList.png" width="800">
+<img src="ImageForPresent\FixedPointsList.png" width="1000">
 
 **Table 1.** Fixed points list for 2D KSE. For conciseness, we tabulate only the absolute value of the first three complex-valued Fourier coefficients for each point. The absolute value has not been normalised by the spatial dimensions (64×64). Only one decimal place is retained for clarity. †The cases E1-E17 are further listed in table 2.
 
 
 
-<img src="ImageForPresent\FixedPointsZeroList.png" width="800">
+<img src="ImageForPresent\FixedPointsZeroList.png" width="1000">
 
 **Table 2.** Representation of the fixed points E1-E17 in 2D KSE which all have the same $\widehat{e}\_{(0,1)} = \widehat{e}\_{(1,1)} = \widehat{e}\_{(1,0)} = 0$.
 

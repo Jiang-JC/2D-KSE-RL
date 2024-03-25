@@ -29,9 +29,11 @@ Four exemplary fixed points in the 2D KSE in (a) phase space and (b) physical sp
 
 
 
+
+
 <img src="ImageForPresent\FixedPointsList.png" width="800">
 
-Fixed points list for 2D KSE. For conciseness, we tabulate only the absolute value of the first three complex-valued Fourier coefficients for each point. The absolute value has not been normalised by the spatial dimensions (64×64). Only one decimal place is retained for clarity. †The cases E1-E17 are further listed in table
+Fixed points list for 2D KSE. For conciseness, we tabulate only the absolute value of the first three complex-valued Fourier coefficients for each point. The absolute value has not been normalised by the spatial dimensions (64×64). Only one decimal place is retained for clarity. †The cases E1-E17 are further listed in table 2.
 
 
 

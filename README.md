@@ -35,14 +35,23 @@ FixedPoints
 ```
 
 ## Train
-Select the "Navigation_2DKSE" folder for task of navigating towards a fixed goal point, or select the "Identification_2DKSE" folder the task of dentifying fixed points, and then
+Select the "Navigation_2DKSE" folder for task of navigating towards a fixed goal point, or select the "Identification_2DKSE" folder the task of identifying fixed points, and then
 
 ```
 python Main.py
 ```
 
-## Fixed points of 2D KSE
+## Test
+For task of navigating towards a fixed goal point, Put the trained model into the "Navigation_2DKSE_Result\Models" folder, then
 
+```
+python MainPhaseDomain.py
+python MainSpatialDomain.py
+```
+
+For task of identifying fixed points, after training the model, you can find fixed points in folder "Identification_2DKSE\FixedPoints"
+
+## Fixed points of 2D KSE
 
 <img src="ImageForPresent\FixedPoints.png" width="1000">
 

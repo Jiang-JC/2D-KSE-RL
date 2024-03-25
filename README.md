@@ -19,6 +19,8 @@ conda activate KSE_RL
 
 ## Repository Sturcture
 
+The following gives a brief overview of the contents.
+
 ```
 Navigation_2DKSE                   // For the task of navigating towards a fixed goal point
 Navigation_2DKSE_Result            // Test the effect of navigating towards a fixed goal point

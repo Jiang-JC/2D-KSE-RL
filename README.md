@@ -9,8 +9,8 @@ Repository for "Numerical solutions of fixed points in two-dimensional Kuramoto-
 ## Repository Sturcture
 
 ```
-Navigation_2DKSE                   // For code of 
-Identification_2DKSE               // For case of 
+Navigation_2DKSE                   // For task of navigating towards a fixed goal point
+Identification_2DKSE               // For task of dentifying fixed points
 FixedPoints
     - FixedPointsData              // Data of fixed points in two-dimensional Kuramoto-Sivashinsky
     - FixedPointsImage             // Images of fixed points in two-dimensional Kuramoto-Sivashinsky
@@ -29,7 +29,7 @@ $\widehat{e}_{(0,1)}$
 
 
 
-Fixed points th}at have been obtained with the aid of DRL in the JFNK method. For conciseness, we tabulate only the absolute value of the first three complex-valued Fourier coefficients $\widehat\{e\}_1$
+Fixed points list have been obtained with the aid of DRL in the JFNK method. For conciseness, we tabulate only the absolute value of the first three complex-valued Fourier coefficients $\widehat\{e\}_1$
 
 $\widehat\{e\}_\{\(1,1\)\}$,
 

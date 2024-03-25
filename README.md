@@ -4,10 +4,15 @@ Repository for "Numerical solutions of fixed points in two-dimensional Kuramoto-
 
 ## Requirements
 –python 3.8.13
+
 –pytorch 1.10.2
+
 –cudatoolkit 11.3
+
 –pyscipopt 4.2
+
 –gurobipy 9.5.2
+
 –pyg 2.0.4
 
 ## Installment

@@ -10,6 +10,7 @@ Repository for "Numerical solutions of fixed points in two-dimensional Kuramoto-
 
 ```
 Navigation_2DKSE                   // For task of navigating towards a fixed goal point
+Navigation_2DKSE                   // For task of navigating towards a fixed goal point
 Identification_2DKSE               // For task of dentifying fixed points
 FixedPoints
     - FixedPointsData              // Data of fixed points in two-dimensional Kuramoto-Sivashinsky

@@ -35,7 +35,7 @@ FixedPoints
 ```
 
 ## Train
-Select the "Navigation_2DKSE" folder for task of navigating towards a fixed goal point, or select the "Identification_2DKSE" folder and then
+Select the "Navigation_2DKSE" folder for task of navigating towards a fixed goal point, or select the "Identification_2DKSE" folder the task of dentifying fixed points, and then
 
 ```
 python Main.py

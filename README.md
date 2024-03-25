@@ -4,6 +4,7 @@ Repository for "Numerical solutions of fixed points in two-dimensional Kuramoto-
 
 ## Requirements
 +123123
+
 -123123
 
 

@@ -25,7 +25,10 @@ FixedPoints
 
 <img src="ImageForPresent\FixedPoints.png" width="800">
 
-$\widehat{e}_{(0,1)}$
+
+Four exemplary fixed points in the 2D KSE in (a) phase space and (b) physical spatial domain. In the phase space representation, the figure is characterized by the set ̂e(0,1), ̂e(1,1), ̂e(1,0) in the Fourier space.
+For example, $\widehat{e}_{(0,1)}$ is the first Fourier mode in the y direction with zero Fourier mode in the x direction.
+
 
 
 <img src="ImageForPresent\FixedPointsList.png" width="800">

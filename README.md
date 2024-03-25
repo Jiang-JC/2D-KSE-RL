@@ -6,6 +6,14 @@ Repository for "Numerical solutions of fixed points in two-dimensional Kuramoto-
 
 
 
+## Installment
+Create a new environment with Conda
+
+```
+conda env create -f KSE_RL.yaml
+conda activate KSE_RL
+```
+
 ## Repository Sturcture
 
 ```

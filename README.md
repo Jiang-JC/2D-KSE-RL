@@ -29,5 +29,4 @@ $\widehat{e}_{(0,1)}$
 
 
 
-Fixed points th}at have been obtained with the aid of DRL in the JFNK method. For conciseness, we tabulate only the absolute value of the first three complex-valued Fourier coefficients {$\widehat{e}$, $\widehat{e}, $\widehat{e}}$} for each point. The absolute
-value has not been normalised by the spatial dimensions (64×64). Only one decimal place is retained for clarity. †The cases E1-E17 are further listed in table
+Fixed points th}at have been obtained with the aid of DRL in the JFNK method. For conciseness, we tabulate only the absolute value of the first three complex-valued Fourier coefficients $\widehat{e}$, $\widehat{e}, $\widehat{e}}$ for each point. The absolute value has not been normalised by the spatial dimensions (64×64). Only one decimal place is retained for clarity. †The cases E1-E17 are further listed in table

@@ -37,6 +37,6 @@ Fixed points list for 2D KSE. For conciseness, we tabulate only the absolute val
 
 <img src="ImageForPresent\FixedPointsZeroList.png" width="800">
 
-$\widehat{e}\_{(1,0)} = 0$.
+$\widehat{e}\_{(1,1)} = \widehat{e}\_{(1,0)} = 0$.
 
 

@@ -3,9 +3,10 @@
 Repository for "Numerical solutions of fixed points in two-dimensional Kuramoto-Sivashinsky equation expedited by reinforcement learning".
 
 ## Dependencies
-+ pytorch
-+ numpy
-+ matplotlib
++ Python  3.9
++ Pytorch  2.2.1
++ Numpy
++ Matplotlib
 + imageio
 
 

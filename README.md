@@ -9,15 +9,6 @@ Repository for "Numerical solutions of fixed points in two-dimensional Kuramoto-
 + Matplotlib
 + imageio
 
-
-## Installment
-Create a new environment with Conda
-
-```
-conda env create -f environment.yml
-conda activate KSE_RL
-```
-
 ## Repository Sturcture
 
 The following gives a brief overview of the contents.

@@ -2,7 +2,9 @@
 
 Repository for "Numerical solutions of fixed points in two-dimensional Kuramoto-Sivashinsky equation expedited by reinforcement learning" by Juncheng Jiang, Dongdong Wan and Mengqi Zhang*.
 
-This paper is yet to be submitted.
+*Co-author
+
+This paper will be submitted for publication.
 
 ## Dependencies
 + Python  3.9

@@ -21,9 +21,6 @@ The following gives a brief overview of the contents.
 Navigation_2DKSE                   // For the task of navigating towards a fixed goal point
 Navigation_2DKSE_Result            // Test the effect of navigating towards a fixed goal point
 Identification_2DKSE               // For the task of dentifying fixed points
-FixedPoints
-    - FixedPointsData              // Data of fixed points in two-dimensional Kuramoto-Sivashinsky
-    - FixedPointsImage             // Images of fixed points in two-dimensional Kuramoto-Sivashinsky
 ```
 
 ## Train

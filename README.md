@@ -29,6 +29,7 @@ Select the "Navigation_2DKSE" folder for the task of navigating towards a fixed 
 ```
 python main.py
 ```
+This code was originally designed for execution on HPC, allowing for a large replay buffer size. For execution on a personal computer, it is advisable to reduce the replay buffer size, for example, by a factor of 10, to accommodate limited memory resources. The replay buffer parameter can be adjusted in the buffer.py file.
 
 ## Test
 For the task of navigating towards a fixed goal point, Put the trained model into the "Navigation_2DKSE_Result\Models" folder, then

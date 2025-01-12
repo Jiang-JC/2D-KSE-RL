@@ -47,3 +47,6 @@ For the task of identifying fixed points, after training the model, you can find
 
 **Figure 1.** Four exemplary fixed points in the 2D KSE in (a) phase space and (b) physical spatial domain. In the phase space representation, the figure is characterized by the set $\widehat{e}\_{(0,1)}$,  $\widehat{e}\_{(1,1)}$,  $\widehat{e}\_{(1,0)}$ in the Fourier space. For example, $\widehat{e}_{(0,1)}$ is the first Fourier mode in the y direction with zero Fourier mode in the x direction. In order to visually demonstrate the periodicity of the solution, we extend the results to $[0, 40] * [0, 40]$ in physical spatial domain.
 
+## Linear Stability Analysis
+We employed two methods to confirm the linear instability of the 303 fixed points. Calculations show that all the 303 fixed points obtained are linearly unstable to infinitesimal perturbations. Detailed data, examples, methodologies, and instructions for using the data can be found in the "Linear_Stability_Analysis directory".
+

@@ -1,10 +1,20 @@
 # 2D-KSE-RL
 
-Repository for "Numerical solutions of fixed points in two-dimensional Kuramoto-Sivashinsky equation expedited by reinforcement learning" by Juncheng Jiang, Dongdong Wan and Mengqi Zhang†.
+Repository for "Numerical solutions of fixed points in two-dimensional Kuramoto-Sivashinsky equation expedited by reinforcement learning" by Juncheng Jiang, Dongdong Wan and Mengqi Zhang†. [Arxiv](https://arxiv.org/abs/2501.00046)
 
 †Corresponding authors
 
-This paper will be submitted for publication.
+We provided the codes for Fixed point navigation, Identification and Linear stability analysis.
+
+If you use the fixed point data and codes from this repo, please cite our work. Thanks!
+```
+@article{jiang2024numerical,
+  title={Numerical solutions of fixed points in two-dimensional Kuramoto-Sivashinsky equation expedited by reinforcement learning},
+  author={Jiang, Juncheng and Wan, Dongdong and Zhang, Mengqi},
+  journal={arXiv preprint arXiv:2501.00046},
+  year={2024}
+}
+```
 
 ## Dependencies
 + Python  3.9
